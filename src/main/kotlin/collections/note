@@ -1,0 +1,33 @@
+
+Collection
+- Collection holds the same type of data or different types of data.
+
+Array
+- An array is a collection of the same type of data or different types of data. It has fixed size
+  - IntArray : It holds int data
+  - BooleanArray: It holds boolean data
+  - DoubleArray: It holds double data
+  - ByteArray: It holds byte data
+  - LongArray: It holds long data
+  - ShortArray: It holds short data
+  - FloatArray: It holds float data
+- function
+  - arrayOf<String> : holding string data type
+  - arrayOf<Fruit> : holding object or model class data
+  - array(1,2,"Raj",20.5) : holding different type of data
+
+
+
+Immutable collection
+This means you only read the value but you cannot write to it.
+
+- List : listOf -> List is similar to arrayOf but it has more helper methods
+- Set : setOf -> Store unique values in group
+- map : mapOf -> Store key value paired data
+
+Mutable collection
+This means you can read or write data to it.
+
+- Mutable List : ArrayList, arrayListOf, mutableListOf
+- Mutable Set : mutableSetOf, hashSetOf
+- Mutable Map : HashMap, hashMapOf, mutableMapOf

@@ -1,0 +1,50 @@
+1 Hello world
+2 Basics
+  - Arrays
+  - Data Types
+  - Operators
+  - Variables
+  - String
+3 Statements / if else expression
+  - if
+  - if else
+  - if else if
+  - Nested if
+4 Statements
+  - When
+  - For loop
+  - For loop with ranges
+  - For each loop
+  - Do While loop
+  - While loop
+  - Break and Continue
+5 Null Safety
+6 Functions
+  - Function sample
+  - Higher order function
+  - Lambda function
+  - Lambda with higher order function
+7 Coroutines
+8 OOPs
+  - Class & Object
+  - Scope
+  - LateInit keyword
+  - Getter & Setter
+  - Data class
+  - Inheritance
+  - Interface
+  - Abstract class
+  - Type casting
+9 Collections
+  - Arrays
+  - List
+  - Sets
+  - Maps
+  - ArrayList
+10 Additional Topics
+   - Lambda expression
+   - Visibility Modifier or Access Modifier
+   - Open keyword
+   - Nested and Inner class
+   - Safe Unsafe cast
+   - Exception handling
